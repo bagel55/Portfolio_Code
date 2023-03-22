@@ -1,0 +1,30 @@
+﻿Proposed changes for v0.0.3
++ added CHANGELOG
++ Debug commands
++ Stats for player
++ Inventory
++ Random number
++ WhereAmI (similar look, when we move, we see the description)
++ Shorcut navigation
++ Location requirement
+
+Version 0.0.3 Completed on 3/31/22
+
+
+
+Proposed changes for v0.0.4
++ Healing each move
++ Add quest to the system
++ Monster detection
+
+Version 0.0.4 Completed on 6/1/22
+
+
+
+Proposed changes for v0.0.5
++ Weapon equiping
++ Attack engine
++ Last clean up, abbreviate commands
+- Finish help system
+
+Version 0.0.5 Completed
