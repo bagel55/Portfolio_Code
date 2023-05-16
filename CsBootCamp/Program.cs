@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CsBootCamp;
+using System;
 
 namespace _22PMbootcamp
 {
@@ -19,7 +20,7 @@ namespace _22PMbootcamp
 
             //MadLib.Execute();
 
-            MiniDC.StartDC();
+            //MiniDC.StartDC();
 
             //Statements.BranchingIf();
             //Statements.Switching();
@@ -44,6 +45,9 @@ namespace _22PMbootcamp
             //WordCounter.CharacterCounter(args);
 
             //BirthDayOfWeek.DayBorn();
+
+            KenimaticsCalculator calculator = new KenimaticsCalculator();
+            calculator.EquationSetup();
         }
     }
 }
